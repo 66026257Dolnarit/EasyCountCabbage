@@ -1,4 +1,4 @@
-# EasyCountCabbage
+# Cabbage yield monitroring system
 ## 👥 Team Members
 - 66024222 นาย วรเมธ เชี่ยวชาญ (Researcher/UX,Dev)
 - 66026257 นาย ดลณฤทธิ์ สายคำบ่อ (Owner,Dev Lead)
