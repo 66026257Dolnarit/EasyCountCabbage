@@ -1,7 +1,7 @@
 # EasyCountCabbage
 ## 👥 Team Members
-- Beam - Product Owner,DevLead
-- Oak - UX Designer,Dev
+- 66024222 นาย วรเมธ เชี่ยวชาญ (Researcher/UX,Dev)
+- 66026257 นาย ดลณฤทธิ์ สายคำบ่อ (Owner,Dev Lead)
 
 ## 🎯 Product Vision Statement
 
